@@ -1,0 +1,18 @@
+#fullname{
+    background-color:rgb(255, 217, 0)
+}
+#phonenumber{
+    background-color:rgb(43, 255, 0)
+}
+#emailaddress{
+    background-color:rgb(38, 0, 255)
+}
+.Event Regestration Form{
+    font-family: 'Times New Roman', Times, serif ;
+    font-style: italic ;
+
+}
+
+span{
+    color:rgb(247, 0, 255);
+}
